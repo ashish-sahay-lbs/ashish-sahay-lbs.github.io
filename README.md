@@ -1,7 +1,3 @@
----
-title: Your Name
----
-
 ## Ashish Sahay
 
 ### About Me
