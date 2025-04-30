@@ -4,8 +4,9 @@
 
 <img src="photo.jpg" alt="Your Photo" width="150" style="border-radius: 50%; float: left; margin-right: 20px;">
 
-Hello! I’m a researcher in **[your field]**. I specialize in **[topics]**.  
-[Add more description here if you'd like.]
+Hello! Welcome to my page. I am a quantitative researcher with a PhD in Finance from London Business School and over five years of experience in systematic investing. My work spans alpha signal research, portfolio construction & optimization, and dynamic risk management across equity and macro asset classes. I’ve led research initiatives at firms like Man AHL, focusing on scalable, data-driven strategies grounded in academic and applied rigor. I enjoy collaborating on intellectually curious projects and exploring new ways to solve complex problems in markets.
+
+
 
 <div style="clear: both;"></div>
 
